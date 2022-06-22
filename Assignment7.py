@@ -1,13 +1,3 @@
-"""
-CISC-121 2022W
-
-Name:   Mit Patel
-Student Number: 20312000
-Email:  21mpp3@queensu.ca
-
-I confirm that this assignment solution is my own work and conforms to
-Queen's standards of Academic Integrity
-"""
 import random
 import numpy as np
 
